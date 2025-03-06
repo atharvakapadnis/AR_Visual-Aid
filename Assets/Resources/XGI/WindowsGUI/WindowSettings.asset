@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1668249689, guid: 379a7d5091a51f7408cb6d63e18fcec8, type: 3}
+  m_Name: WindowSettings
+  m_EditorClassIdentifier: 
+  orientationState: 2
+  scaleMajorAxis: 560
+  scaleMinorAxis: 330
+  titleBarSize: 74
+  primarySourceImage: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  primaryColor: {r: 1, g: 1, b: 1, a: 0.3921569}
+  primaryMaterial: {fileID: 0}
+  primaryType: 1
+  primaryFontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  primaryFontStyle: 0
+  primaryFontSize: 25
+  primaryTextColor: {r: 0, g: 0, b: 0, a: 1}
+  primaryTextAlignmentOptions: 257
+  secondarySourceImage: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  secondaryColor: {r: 0.1320755, g: 0.1320755, b: 0.1320755, a: 0.8509804}
+  secondaryMaterial: {fileID: 0}
+  secondaryType: 1
+  backgroundHindererColor: {r: 0, g: 0, b: 0, a: 0}
+  secondaryFontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  secondaryFontStyle: 0
+  secondaryFontSize: 28
+  secondaryTextColor: {r: 1, g: 1, b: 1, a: 1}
+  secondaryTextAlignmentOptions: 516
+  buttonType: 1
+  buttonImageType: 1
+  buttonAlignment: 2
+  buttonSpacing: 8
+  buttonLength: 140
+  buttonHeight: 70
+  buttonNormalSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  buttonHighlightedSprite: {fileID: 0}
+  buttonPressedSprite: {fileID: 0}
+  buttonSelectedSprite: {fileID: 0}
+  buttonDisabledSprite: {fileID: 0}
+  buttonNormalColor: {r: 0.1320755, g: 0.1320755, b: 0.1320755, a: 0.8509804}
+  buttonHighlightedColor: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 0.8509804}
+  buttonPressedColor: {r: 0.7843137, g: 0.7843137, b: 0.7843137, a: 1}
+  buttonSelectedColor: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 0.8509804}
+  buttonDisabledColor: {r: 0.1320755, g: 0.1320755, b: 0.1320755, a: 0.4254902}
+  buttonFadeDuration: 0
+  buttonFontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  buttonFontStyle: 0
+  buttonFontSize: 21.5
+  buttonTextColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonTextAlignmentOptions: 514
+  primaryFontStyleIndex: 0
+  secondaryFontStyleIndex: 33
+  buttonFontStyleIndex: 33

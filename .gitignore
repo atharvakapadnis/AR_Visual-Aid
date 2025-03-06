@@ -1,0 +1,13 @@
+# Unity-specific files to ignore
+app_BackUpThisFolder_ButDontShipItWithYourGame/
+app_BurstDebugInformation_DoNotShip/
+Library/
+Logs/
+obj/
+Temp/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+*.unitypackage
